@@ -1,0 +1,11 @@
+Typescript : 			https://www.typescript-training.com
+Brian Holt: React Intro		https://btholt.github.io/complete-intro-to-react-v6/
+CSS : 				https://gettingstartedwith.css.education/
+Web Dev Bootcamps : 		https://frontendmasters.github.io/bootcamp/
+				https://www.internetfundamentals.com/watch/
+Bianca Gandolfo : 		https://slides.com/bgando
+Accessibility : 			https://learn-a11y.netlify.app/
+Kent C dodds : 			https://slides.com/kentcdodds
+https://jemyoung.com/
+Anjana JS Functional intro : 	https://observablehq.com/collection/@anjana/functional-javascript-first-steps
+Accessibility in JS marcy sutton: https://marcysutton.github.io/js-a11y-workshop/slides/0
