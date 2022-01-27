@@ -9,3 +9,4 @@ Kent C dodds : 			https://slides.com/kentcdodds
 https://jemyoung.com/
 Anjana JS Functional intro : 	https://observablehq.com/collection/@anjana/functional-javascript-first-steps
 Accessibility in JS marcy sutton: https://marcysutton.github.io/js-a11y-workshop/slides/0
+				https://marcysutton.github.io/js-a11y-workshop/
